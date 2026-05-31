@@ -25,7 +25,3 @@ python student_result_system.py
 
 ## 💡 Resume Entry
 > Built Student Result Management System using Python — OOPs, File I/O, JSON, Exception Handling
-
----
-**Made by**: Ayush  
-**Year**: 2026
